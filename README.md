@@ -1,6 +1,7 @@
 **Purpose**
 
 This project consists in exploring publicly available data from [LendingClub.com] (www.lendingclub.com). Lending Club connects people who need money (borrowers) with people who have money (investors). Fortunately, investors would like to invest in people who have shown a profile of having a high probability of paying you back. As so, the objective is to create a model that helps to predict this.
+
 **Technologies:**
 
 - Jupyter Notebook 
